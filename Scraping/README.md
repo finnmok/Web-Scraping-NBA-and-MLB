@@ -9,6 +9,9 @@ Photo From Wikipedia (Steven Adams) of a Player's Biography and What Information
 ## WikiPlayerInfo.ipynb:
 Contains code for scraping each basketball player's information
 
+## WikiPlayerInfoFuncs.py:
+Contains code for functions for scraping each basketball player's information
+
 ## complete_adv_stats_raw.csv:
 Scraped advanced statistics from Basketball-reference.com (Code in AdvPlayerStats.ipynb file)
 
