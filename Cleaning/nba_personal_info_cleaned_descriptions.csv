@@ -1,0 +1,32 @@
+,DataType,Description
+Year,float64,Basketball Season for the Player (eg. 2020 = 2019-2020 NBA Season)
+FirstName,"str, NoneType",NBA Player's First Name
+LastName,"str, NoneType",NBA Player's Last Name
+Name,"str, NoneType",NBA Player's Full Name
+Nationality,"str, NoneType","NBA Player's Nationality (if None, Not Found on Wikipedia)"
+American,float64,1 if Player was Born in the United States
+Draft,float64,Year Player was Drafted in the NBA
+Birthday,datetime64[ns],Birthdate (YYYY-MM-DD)
+Birthplace,"str, NoneType","If in the United States, Contains State Name and Occasionally 'U.S.'; Else Contains Country Name and Occasionally a City Name"
+CareerStart,float64,First Year Playing in the NBA
+CareerEnd,float64,Last Year Playing in the NBA
+Height (in),float64,Player's Height Measured in Inches
+Weight (lbs),float64,Player's Weight Measured in Pounds
+HS1,"str, NoneType",Name of 1st High School Player Went to
+HS2,"str, NoneType",Name of 2nd High School Player Went to
+HS3,"str, NoneType",Name of 3rd High School Player Went to
+HS4,"str, NoneType",Name of 4th High School Player Went to
+HSC1,"str, NoneType",City of 1st High School Player Went to
+HSC2,"str, NoneType",City of 2nd High School Player Went to
+HSC3,"str, NoneType",City of 3rd High School Player Went to
+HSC4,"str, NoneType",City of 4th High School Player Went to
+USHS,float64,1 if All the Player's High School Years Were in the U.S.; else 0
+CollegeY1,"str, NoneType",Years Player Went to His 1st College
+CollegeY2,"str, NoneType",Years Player Went to His 2nd College
+CollegeY3,"str, NoneType",Years Player Went to His 3rd College
+CollegeY4,"str, NoneType",Years Player Went to His 4th College
+College1,"str, NoneType",1st College a Player Went to
+College2,"str, NoneType",2nd College a Player Went to
+College3,"str, NoneType",3rd College a Player Went to
+College4,"str, NoneType",4th College a Player Went to
+Teams,"str, [str], NoneType","Years, Team That NBA Player Was On"
