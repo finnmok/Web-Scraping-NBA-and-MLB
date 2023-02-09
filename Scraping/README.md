@@ -3,6 +3,9 @@
 ## AdvPlayerStats.ipynb:
 Contains code for scraping Basketball-reference.com website for Advanced statistics for each player for each season and their team.
 
+##FreeAgentInfo.ipynb:
+Contains code for scraping team, player, and date of free agent transactions
+
 ## WikiPlayerExample.png:
 Photo From Wikipedia (Steven Adams) of a Player's Biography and What Information is Scraped
 
