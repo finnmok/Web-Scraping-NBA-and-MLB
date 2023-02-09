@@ -3,7 +3,7 @@
 ## AdvPlayerStats.ipynb:
 Contains code for scraping Basketball-reference.com website for Advanced statistics for each player for each season and their team.
 
-##FreeAgentInfo.ipynb:
+## FreeAgentInfo.ipynb:
 Contains code for scraping team, player, and date of free agent transactions
 
 ## WikiPlayerExample.png:
@@ -17,6 +17,9 @@ Contains code for functions for scraping each basketball player's information
 
 ## complete_adv_stats_raw.csv:
 Scraped advanced statistics from Basketball-reference.com (Code in AdvPlayerStats.ipynb file)
+
+## freeagents.csv
+Scraped free agent transaction information from Basketball-reference.com (Team, Player, Date)
 
 ## nba_player_bio_raw.csv:
 Scraped personal information from each player (example of information scraped under WikiPlayerExample.png) (Code in WikiPlayerInfo.ipynb file)
